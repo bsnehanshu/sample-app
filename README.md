@@ -1,3 +1,5 @@
+[![Build Status](https://clt-f155f91a-c6b2-492c-9af9-b929d2ec1b40.visualstudio.com/testdevops_snehanshu/_apis/build/status/testdevops_snehanshu-CI)](https://clt-f155f91a-c6b2-492c-9af9-b929d2ec1b40.visualstudio.com/testdevops_snehanshu/_build/latest?definitionId=1)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
